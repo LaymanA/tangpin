@@ -1,0 +1,50 @@
+[
+  {
+    "index" : "A",
+    "list" : [
+      { "id": 1, "img" : "../../static/images/souye/common-fcd85558-2be0-4213-80ce-ab8a923d1b30.jpg" },
+      { "id": 2, "img" : "../../static/images/souye/common-b7d34089-9cde-402f-aa35-dacee674cd30.jpg" },
+      { "id": 3, "img" : "../../static/images/souye/common-41f5e500-2b0b-4be6-b259-a6c71fdf90a6.jpg"},
+      { "id": 4, "img" : "../../static/images/souye/common-8fc2ee26-86ba-43a5-999a-5a8305f5f361.jpg"},
+      { "id": 5, "img" : "../../static/images/souye/common-b7d34089-9cde-402f-aa35-dacee674cd30.jpg"}
+    ]
+  },
+  {
+    "index" : "B",
+    "list" : [
+      { "id": 6, "img" : "../../static/images/souye/common-58c9c0a1-71c3-465d-b4e0-2f87c341acea.jpg"},
+      { "id": 7, "img" : "../../static/images/souye/common-7eeba11b-022b-4b38-9c79-40ae01ee4d5d.jpg"},
+      { "id": 8, "img" : "../../static/images/souye/common-8a834499-29ce-4993-9b34-63e2cc99f5c3.jpg"},
+      { "id": 9, "img" : "../../static/images/souye/common-8d59c4da-250d-47bd-aa06-003fffae2967.jpg"},
+      { "id": 10, "img" : "../../static/images/souye/common-028aec93-ae53-4b05-9a03-759846b95cd9.jpg"}
+    ]
+  },
+  {
+    "index" : "新品大荐",
+    "list" : [
+      { "id": 11, "img" : "../../static/images/souye/common-27bb53e5-ab42-4260-b78a-47e00d62168b.jpg"},
+      { "id": 12, "img" : "../../static/images/souye/common-54fa2577-46fe-4d11-85ee-b2e9eb5b62b2.jpg"},
+      { "id": 13, "img" : "../../static/images/souye/common-86c86371-ec05-4926-97a9-7d5706b49f24.jpg"},
+      { "id": 14, "img" : "../../static/images/souye/common-603a7205-1b05-4d3b-8140-642e15af7c4f.jpg"},
+      { "id": 15, "img" : "../../static/images/souye/common-ab2653de-fe50-4fae-b4a2-369b2f725e4a.jpg"},
+      { "id": 16, "img" : "../../static/images/souye/common-d8add85b-ab65-4ff2-9222-71490f12a341.jpg"},
+      { "id": 17, "img" : "../../static/images/souye/common-26b4c7c1-d96d-4850-8a88-4d74101a1197.jpg"},
+      { "id": 18, "img" : "../../static/images/souye/common-15732917-032d-4a06-a8dd-8b9808a8477f.jpg"}
+    ]
+  },
+  {
+    "index":"礼物精选",
+    "list":[
+      { "id": 19, "img" : "../../static/images/souye/common-0c20b878-970d-4dcf-96bb-5901517af1a3.jpg"},
+      { "id": 20, "img" : "../../static/images/souye/common-2f9ae4fa-f850-4baa-974e-2e3670f85893.jpg"},
+      { "id": 21, "img" : "../../static/images/souye/common-3b2df06d-9e45-48de-b66e-fc11067f938e.jpg"},
+      { "id": 22, "img" : "../../static/images/souye/common-6a22b746-6ec1-4a4e-ac76-906eed6e20d7.jpg"},
+      { "id": 23, "img" : "../../static/images/souye/common-8c4d7398-236a-465d-83f3-8067720e7d93.jpg"},
+      { "id": 24, "img" : "../../static/images/souye/common-592c166a-b32b-4a26-9247-fd01d90244e1.jpg"},
+      { "id": 25, "img" : "../../static/images/souye/common-861a14be-a326-48a8-b6e6-415699ef4f52.jpg"},
+      { "id": 26, "img" : "../../static/images/souye/common-877fafbf-bb3b-4fe4-9a24-05a570c46d74.jpg"},
+      { "id": 27, "img" : "../../static/images/souye/common-a0226acb-d3d9-4d2c-8938-93ec4b45ed42.jpg"},
+      { "id": 28, "img" : "../../static/images/souye/common-87286452-0d4a-49c6-ac45-63570f6a9992.jpg"}
+    ]
+  }
+]
